@@ -35,7 +35,6 @@ git remote add origin https://github.com/anrisovich/quick-start-firebase-project
 git fetch origin main
 git reset --hard origin/main
 
-
 ```
 
 Links:
