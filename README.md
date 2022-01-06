@@ -1,7 +1,4 @@
 # quick-start-firebase-project
-## basic firebase project setup
-
-
 
 > do the steps in firebase console
 
@@ -25,6 +22,8 @@ git fetch origin main
 
 
 > commit repository data in project folder
+> 
+> attention, this command will overwrite files in your local directory if their paths and names match those existing in this repository
 ```
 git reset --hard origin/main
 ```
@@ -35,6 +34,8 @@ git init .
 git remote add origin https://github.com/anrisovich/quick-start-firebase-project.git
 git fetch origin main
 git reset --hard origin/main
+
+
 ```
 
 Links:
