@@ -29,5 +29,5 @@ git fetch origin main
 git reset --hard origin/main
 ```
 
-
+Links:
 [git tutorials](https://www.atlassian.com/ru/git/tutorials/syncing)
