@@ -1,0 +1,8 @@
+{
+    "css.styleSheets": [
+        "/public/bootstrap/css/bootstrap.min.css",
+        "/public/bootstrap/icons/bootstrap-icons.css",
+        "/public/style.css"
+        // "${fileBasenameNoExtension}.css"
+    ]
+}
