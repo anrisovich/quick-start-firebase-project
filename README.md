@@ -29,5 +29,13 @@ git fetch origin main
 git reset --hard origin/main
 ```
 
+> all in one
+```
+git init .
+git remote add origin https://github.com/anrisovich/quick-start-firebase-project.git
+git fetch origin main
+git reset --hard origin/main
+```
+
 Links:
 [git tutorials](https://www.atlassian.com/ru/git/tutorials/syncing)
